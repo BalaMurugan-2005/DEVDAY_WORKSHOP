@@ -1,0 +1,5 @@
+1 working  dir 
+2.staging dir
+3.Local repo
+4.global repo
+
